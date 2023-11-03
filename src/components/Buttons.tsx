@@ -1,4 +1,5 @@
 import React, { Children } from "react";
+import Alert from "./Alert";
 
 interface Props {
   children: string;
