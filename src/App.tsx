@@ -3,6 +3,7 @@ import Alert from "./components/Alert";
 import Buttons from "./components/Buttons";
 import ListGroup from "./components/ListGroup";
 
+// needs to remove one of the functions to make it work properly
 function App() {
   let items = ["new york", "Adelaide", "Tokyo", "Longon", "Paris"];
 
